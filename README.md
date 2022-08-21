@@ -1,0 +1,4 @@
+# vehicle_detect_count
+In this project, I worked on detecting and counting vehicles in a given image or a video. I used OpenCV for image processing and Haar cascade which is used for object detection. We can also create our own customized haar cascade classifier.
+I started with downloading the image we will be working on and performed different operations on that image. I saw how I can use haar cascade which is used for object detection. I saw how different haar cascade is used for car detection, bus detection. Similarly, we can use many pretrained haar cascades for different object detection.
+As haar cascade is used for object detection we have a very vast scope for this project. It can be used for any type of object detection. We can also create our own custom haar cascade for specific object.
